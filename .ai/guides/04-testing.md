@@ -1,4 +1,4 @@
-# Testing Workflow
+# Testing Guide
 
 検証計画の作成または検証実行で使用する。
 

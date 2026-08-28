@@ -1,4 +1,4 @@
-# Review Workflow
+# Review Guide
 
 実装レビューまたは完了前の自己レビューで使用する。
 

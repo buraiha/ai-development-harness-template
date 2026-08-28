@@ -1,4 +1,4 @@
-# Implementation Workflow
+# Implementation Guide
 
 コード、設定、ドキュメントを変更する作業で使用する。
 
